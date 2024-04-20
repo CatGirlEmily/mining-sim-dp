@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:deepslate",
+    "minecraft:obsidian",
+    "minecraft:netherite_block"
+  ]
+}

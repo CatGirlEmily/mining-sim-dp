@@ -1,0 +1,436 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:netherite_chestplate",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Zwęglona Tunika",
+                  "color": "dark_red",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "red",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:netherite_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Zwęglone Spodnie",
+                  "color": "dark_red",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "red",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:netherite_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Zwęglone Buty",
+                  "color": "dark_red",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "red",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Zwęglony Hełm",
+                  "color": "dark_red",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "red",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Czapka",
+                  "color": "dark_green",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "green",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Tunika",
+                  "color": "dark_green",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "green",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Spodnie",
+                  "color": "dark_green",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "green",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:iron_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Buty",
+                  "color": "dark_green"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "green",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16711680},HideFlags:69,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Czapka Początkującego",
+                  "color": "dark_blue",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "aqua",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16777215},HideFlags:69,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Buty Początkującego",
+                  "color": "dark_blue",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "aqua",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16777215},HideFlags:69,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Spodnie Początkującego",
+                  "color": "dark_blue",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "aqua",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16711680},HideFlags:69,Unbreakable:1b,Enchantments:[{id:\"minecraft:protection\",lvl:1s}]}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Tunika Początkującego",
+                  "color": "dark_blue",
+                  "bold": "true",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "Po założeniu, daje boosty",
+                  "color": "aqua",
+                  "italic": "true"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
